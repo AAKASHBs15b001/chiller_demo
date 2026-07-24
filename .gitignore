@@ -1,0 +1,8 @@
+app/node_modules/
+app/dist/
+app/.env.production
+deployment_guide.txt
+
+# OS / editor cruft
+.DS_Store
+*.log
